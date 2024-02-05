@@ -17,3 +17,7 @@ Remove unnecessary tasks with a simple swipe, keeping your list clutter-free.
 
 #### Clear interface: 
 Enjoy a user-friendly design that focuses on task management without distractions.
+
+
+!['App SS with No Task UI'](./appscreenshots/NoTasks.jpeg)
+!['App SS with Tasks UI'](./appscreenshots/WithTasks.jpeg)
