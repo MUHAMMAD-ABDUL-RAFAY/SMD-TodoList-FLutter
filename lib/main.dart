@@ -66,7 +66,8 @@ class _HomeState extends State<Home> {
           foregroundColor: Colors.white,
           backgroundColor: Colors.deepPurple,
         ),
-        body: Column(
+        body: SingleChildScrollView(
+            child: Column(
           children: [
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 50),
@@ -167,6 +168,6 @@ class _HomeState extends State<Home> {
                     ),
                   )
           ],
-        ));
+        )));
   }
 }
