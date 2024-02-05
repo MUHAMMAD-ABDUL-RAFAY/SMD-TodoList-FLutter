@@ -38,7 +38,7 @@ class _HomeState extends State<Home> {
       "Id6435": {"Assignment by Muhammad Rafay(20K-0180)": false},
     },
     {
-      "Id1234": {"Take SMD Class At 3": false},
+      "Id1234": {"Take SMD Class At 3": true},
     },
     {
       "Id1235": {"Submitted Assignment2 SMD": true},
