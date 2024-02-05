@@ -1,16 +1,12 @@
 # todolist
 
-A new Flutter project.
+A simple Flutter App to manage your tasks efficiently.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Features:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add tasks: Easily add new tasks to your list using a convenient input field.
+Mark tasks complete: Check off completed tasks with a satisfying tap, keeping track of your progress.
+Delete tasks: Remove unnecessary tasks with a simple swipe, keeping your list clutter-free.
+Clear interface: Enjoy a user-friendly design that focuses on task management without distractions.
